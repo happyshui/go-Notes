@@ -1,0 +1,4 @@
+﻿学习目标,痛点,详细内容
+Memory Model,Go 中内存模型和同步语义,内存模型：Happens Before、同步语义、channel 通讯、锁
+并发特性并发编程模式：Timeout、Pipeline、Cancellation、Fanout、errgroup 等模式,熟练使用基于 channel 通讯方式的并行编程模式,利用 channel 完成并行开发的设计模式，包含超时控制、管道、扇出、errgroup 并发
+Go 语言中 Context 的原理并掌握其使用方法,Context 传播式传递的意义,使用 Go 标准库 Context 的原理和最佳实践，包含超时控制、元数据传递、生命周期控制

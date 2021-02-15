@@ -1,0 +1,4 @@
+﻿学习目标,痛点,详细内容
+TCP 网络编程,Go 实现高性能的 TCP Server,结合 goim 项目了解 Go 语言中 TCP Server 的基础库和性能优化方案
+HTTP 网络编程,HTTP框架选型,结合 gin 项目了解 Go 语言中的 HTTP Server 的基础库和框架
+,根据业务对框架做针对性的扩展,
